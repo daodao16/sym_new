@@ -41,5 +41,5 @@
 ----
 
 <p align = "center">
-<strong>事业而不失序，陪你度过一段特殊的时光</strong>
+<strong>失业而不失序，陪你度过一段特殊的时光</strong>
 </p>

@@ -1,6 +1,6 @@
 ## 简介
 
-失业者联盟【loseRUNion】(http://losergogogo.com))是为失业者而生搭建的社区论坛，方便暂时失去工作的同学一起学习和交流。
+失业者联盟[loseRUNion](http://losergogogo.com)是为失业者而生搭建的社区论坛，方便暂时失去工作的同学一起学习和交流。
 
 本社区代码根据开源项目[Symphony]修改而成，现遵循开源协议，进行开源。
 
